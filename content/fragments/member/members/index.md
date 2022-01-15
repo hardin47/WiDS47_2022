@@ -1,10 +1,10 @@
 +++
 fragment = "member"
-#disabled = false
-date = "2017-10-17"
+disabled = false
+date = "2022-04-01"
 weight = 120
 background = "secondary"
 
-title = "Members fragment - Multiple members"
+title = "WiDS Claremont Team"
 #title_align = "left" # Default is center, can be left, right or center
 +++

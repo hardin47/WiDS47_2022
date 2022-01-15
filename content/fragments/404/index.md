@@ -7,6 +7,8 @@ title = "404"
 
 Call to action and description for the 404 (page not found) page
 
+
+
 <!--more-->
 
 Simple fragment with an image (usually logo of the website), a description and a

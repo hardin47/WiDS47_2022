@@ -3,35 +3,16 @@ fragment = "content"
 weight = 121
 +++
 
-<details><summary>Code (index)</summary>
-
 ```
 +++
-fragment = "member"
-#disabled = false
-date = "2017-10-17"
-weight = 120
-background = "secondary"
-
-title = "Members fragment - Multiple members"
-#title_align = "left" # Default is center, can be left, right or center
-+++
-```
-</details>
-
-<details>
-<summary>Code (subitem)</summary>
-
-```
-+++
-title = "Huge Gopher"
+title = "Hilary Parker"
 weight = 0
-date = "2017-10-17"
-#disabled = true
+date = ""
+disabled = true
 
-position = "Lead Gopherineer"
-reports_to = "CTO"
-lives_in = "[Munich, Germany](https://www.google.com/maps/place/Munich,+Germany/)"
+position = "Data Scientist"
+reports_to = "previously of Stitch Fix, Etsy, and the 2020 Biden for President Campaign"
+lives_in = "[California](https://hilaryparker.com/)"
 scope = [
   "UX for [Food Dashboard](#)",
   "Maintainer for [Goper Team A](#)",
@@ -40,19 +21,16 @@ scope = [
 
 [[icons]]
   icon = "fab fa-linkedin-in"
-  url = "#"
+  url = "https://www.linkedin.com/in/parkerhilary/"
+  icon = "fab fa-twitter"
+  url = "https://twitter.com/hspter"
 
 [asset]
-  image = "hugegopher.png"
+  image = "hilary_parker.png"
 +++
 
-Hugely huge Gopher
+Hilary Parker
 
-Some more text to showcase the capabilities:
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Curabitur a lorem urna.
-Quisque in neque malesuada, sollicitudin nunc porttitor, ornare est.
-Praesent ante enim, bibendum sed hendrerit et, iaculis laoreet felis.
-Morbi efficitur dui sit amet orci porttitor, nec tincidunt turpis elementum.
+is a Data Scientist, previously of Stitch Fix, Etsy, and the 2020 Biden for President Campaign. She is passionate about the intersection of data science and product, from deeply understanding users to designing new experiences that depend on innovative data pipelines and client interactions. She also has a data science podcast — Not So Standard Deviations — co-hosted with Roger Peng since 2015. 
 ```
 </details>

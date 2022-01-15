@@ -1,6 +1,6 @@
 +++
 fragment = "member"
-#disabled = false
+disabled = true
 date = "2017-10-17"
 weight = 110
 background = "secondary"
