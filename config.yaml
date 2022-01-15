@@ -74,7 +74,7 @@ menu:
       url: /
       weight: 10
     - name: About WiDS
-      url: /content
+      url: /about
       weight: 20
     - name: Speakers
       url: /members
@@ -83,5 +83,5 @@ menu:
       url: /contact
       weight: 40
     - name: Program
-      url: /fragments
+      url: /docs
       weight: 50

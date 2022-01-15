@@ -5,17 +5,12 @@ date = "2017-10-05"
 weight = 100
 #background = ""
 
-title = "About Syna"
+title = "About WiDS"
 #subtitle = ""
 +++
 
-Open Source Theme from Okkur for your next project.
+Some stuff about WiDS Global, then Claremont, then us.
 
-Syna is based on the awesome work by digitalcraftsman with his Hugo Agency Theme.
-
-The Hugo Agency Theme was based on the work of David Miller with his Startupbootstrap Agency Theme.
-
-**Provided with <3 by Okkur Labs**
 
 ---
 
@@ -30,3 +25,36 @@ Curabitur ipsum ipsum, malesuada at tempus sed, pretium vulputate nunc. Praesent
 Suspendisse molestie, tellus quis finibus facilisis, nulla neque euismod mi, at aliquet lectus arcu ac neque. Proin lacus augue, porttitor in odio vitae, sollicitudin laoreet mi. Donec posuere hendrerit augue hendrerit ornare. Duis vestibulum, nisl sit amet cursus lobortis, felis sapien consequat augue, et accumsan eros ligula id nisl. Praesent iaculis fringilla molestie. Sed consequat nec mi vel venenatis. Nunc felis dui, bibendum ac laoreet pretium, cursus ut orci. Nullam risus nulla, tempus ut bibendum quis, consectetur in risus.
 
 Etiam eget metus elit. Praesent turpis mi, malesuada nec libero a, cursus varius leo. In malesuada gravida est, nec maximus turpis posuere eu. Proin rutrum mattis lectus. Ut mi elit, tincidunt ut aliquet consequat, facilisis vitae arcu. Proin ut massa auctor, imperdiet sem ac, varius justo. Integer porta tellus quis eros sollicitudin mollis. Donec nulla sem, porttitor et velit vitae, tincidunt congue erat. Vivamus urna libero, viverra non pharetra eu, bibendum id arcu. In fermentum bibendum purus, vitae pharetra ipsum gravida quis. Nunc vitae congue diam. Maecenas pharetra orci vel magna fermentum, vitae auctor sapien consectetur. Nunc tempor erat vel nisi ullamcorper mollis. Sed et lectus accumsan, pharetra nunc scelerisque, finibus leo. Sed tempor eros nec nunc porta sodales.
+
+```
++++
+title = "Hilary Parker"
+weight = 0
+date = ""
+disabled = true
+
+position = "Data Scientist"
+reports_to = "previously of Stitch Fix, Etsy, and the 2020 Biden for President Campaign"
+lives_in = "[California](https://hilaryparker.com/)"
+scope = [
+  "UX for [Food Dashboard](#)",
+  "Maintainer for [Goper Team A](#)",
+  "Gopher [Community Administration](#)"
+]
+
+[[icons]]
+  icon = "fab fa-linkedin-in"
+  url = "https://www.linkedin.com/in/parkerhilary/"
+  icon = "fab fa-twitter"
+  url = "https://twitter.com/hspter"
+
+[asset]
+  image = "hilary_parker.png"
++++
+
+Hilary Parker
+
+is a Data Scientist, previously of Stitch Fix, Etsy, and the 2020 Biden for President Campaign. She is passionate about the intersection of data science and product, from deeply understanding users to designing new experiences that depend on innovative data pipelines and client interactions. She also has a data science podcast — Not So Standard Deviations — co-hosted with Roger Peng since 2015. 
+```
+
+

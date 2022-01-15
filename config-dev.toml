@@ -79,7 +79,7 @@ lastmod = ["lastmod", ":git", "date"]
   weight = 10
 
 [[menu.main]]
-  url = "/content"
+  url = "/about"
   name = "About WiDS"
   weight = 20
 
@@ -95,7 +95,7 @@ lastmod = ["lastmod", ":git", "date"]
   identifier = "dev"
 
 [[menu.main]]
-  url = "/fragments"
+  url = "/docs"
   name = "Program"
   weight = 10
   parent = "dev"
