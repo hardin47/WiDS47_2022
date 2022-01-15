@@ -3,7 +3,7 @@ fragment = "hero"
 #disabled = true
 date = "2016-09-07"
 weight = 50
-background = "primary" # can influence the text color
+background = "dark" # can influence the text color
 particles = true
 
 title = "Women in Data Science"
@@ -12,9 +12,9 @@ subtitle = "Pomona College, Claremont, CA, USA"
 [header]
   image = "header.jpg"
 
-[asset]
-  image = "logo.svg"
-  width = "500px" # optional - will default to image width
+#[asset]
+  #image = "logo.svg"
+  #width = "500px" # optional - will default to image width
   #height = "150px" # optional - will default to image height
 
 [[buttons]]
