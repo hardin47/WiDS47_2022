@@ -15,7 +15,7 @@ background = "secondary"
 particles = true
 
 #title_page = true # Default is false
-title = "Syna Theme"
+title = "WiDS Claremont"
 subtitle = "Showcase your next project"
 
 [header]

@@ -8,7 +8,7 @@ particles = true
 #minHeight = "calc(100vh - 56px)" # optional - changes hero fragment's minimum height
 
 #title_page = true # Default is false
-title = "Syna Theme"
+title = "WiDS Claremont"
 subtitle = "Showcase your next project"
 
 [header]

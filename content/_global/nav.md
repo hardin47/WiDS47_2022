@@ -19,6 +19,6 @@ sticky = true
 
 [repo_button]
   url = "https://github.com/hardin47/WiDS47_2022"
-  text = "Star" # default: "Star"
+  text = "Github" # default: "Star"
   icon = "fab fa-github" # defaults: "fab fa-github"
 +++
