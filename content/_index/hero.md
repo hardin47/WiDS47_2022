@@ -3,11 +3,11 @@ fragment = "hero"
 #disabled = true
 date = "2016-09-07"
 weight = 50
-background = "light" # can influence the text color
+background = "primary" # can influence the text color
 particles = true
 
-title = "Syna Theme"
-subtitle = "Showcase your next project"
+title = "Women in Data Science"
+subtitle = "Pomona College, Claremont, CA, USA"
 
 [header]
   image = "header.jpg"
@@ -18,17 +18,22 @@ subtitle = "Showcase your next project"
   #height = "150px" # optional - will default to image height
 
 [[buttons]]
-  text = "Features"
-  url = "#features"
+  text = "About WiDS"
+  url = "#content"
+  color = "dark" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
+  
+[[buttons]]
+  text = "Speakers"
+  url = "#members"
   color = "dark" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
 
 [[buttons]]
-  text = "Getting Started"
-  url = "/docs/"
-  color = "primary"
+  text = "Registration"
+  url = "#contact"
+  color = "dark"
 
 [[buttons]]
-  text = "Fragments"
+  text = "Program"
   url = "#fragments"
   color = "dark"
 +++

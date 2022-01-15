@@ -31,14 +31,14 @@ params:
   analytics:
     piwik: {}
   colors:
-    danger: '#dc1200'
-    dark: '#343a40'
-    info: '#00c9dc'
+    danger: '#e98300'
+    dark: '#231f20'
+    info: '#4298b5'
     light: '#f8f9fa'
-    primary: '#00838F'
-    secondary: '#868e96'
-    success: '#008f54'
-    warning: '#fdf314'
+    primary: '#00b140'
+    secondary: '#75787b'
+    success: '#620059'
+    warning: '#fedd5c'
   custom:
     favicon: favicon.ico
     favicon_ico_sizes: 16x16 32x32
