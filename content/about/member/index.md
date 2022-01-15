@@ -2,9 +2,9 @@
 fragment = "content"
 weight = 100
 
-title = "WiDS Claremont Speakers"
+title = "WiDS Claremont Ambassadors"
 background = "light"
 +++
 
-We are excited to have an amazing team of speakers!  We are all passionate about data science, and we look forward to sharing stories and experiences at WiDS Claremont.
+As WiDS Ambassadors we are excited to invite you to WiDS Claremont!  A day of celebrating awesome women who do Data Science is about as good as it gets.  We hope you join us.
 
