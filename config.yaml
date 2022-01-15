@@ -77,7 +77,7 @@ menu:
       url: /about
       weight: 20
     - name: Speakers
-      url: /members
+      url: /speakers
       weight: 30
     - name: Registration
       url: /contact
