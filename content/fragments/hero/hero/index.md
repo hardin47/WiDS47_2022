@@ -8,7 +8,7 @@ particles = true
 #minHeight = "calc(100vh - 56px)" # optional - changes hero fragment's minimum height
 
 #title_page = true # Default is false
-title = "WiDS Claremont"
+title = "WiDS 47"
 subtitle = "Showcase your next project"
 
 [header]
