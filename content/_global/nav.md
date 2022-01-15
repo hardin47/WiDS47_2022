@@ -1,6 +1,6 @@
 +++
 fragment = "nav"
-disabled = true
+disabled = false
 date = "2018-05-17"
 weight = 0
 background = "dark"
@@ -14,11 +14,11 @@ sticky = true
 
 # Branding options
 [asset]
-  image = "logo.svg"
-  text = "Syna"
+  image = "logo.png"
+  text = "WiDS"
 
 [repo_button]
-  url = "https://github.com/okkur/syna"
+  url = "https://github.com/hardin47/WiDS47_2022"
   text = "Star" # default: "Star"
   icon = "fab fa-github" # defaults: "fab fa-github"
 +++

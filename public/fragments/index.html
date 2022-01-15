@@ -392,7 +392,139 @@ html {
   </script>
   <script src="/scripts/syna-head.min.e41aca70413d995c0e49a558ce1b0a572a1046016f64d7cfed0886c7ec75e3ab.js"></script></head>
 <body class="bg-secondary">
-    
+    <!-- Navigation --><nav class="overlay fragment navbar navbar-expand-lg py-2 scroll-spy bg-dark navbar-dark" id="nav" role="navigation" style='position: sticky; top: 0; z-index: 10000 !important;'>
+  <div class="container">
+      <a class="navbar-brand py-0" href="/#">
+        <img src="/images/logo.png" height="35" class="d-inline-block align-top" alt="WiDS">
+      </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="navbar-collapse justify-content-between collapse show" id="navbarCollapse">
+      <ul class="navbar-nav"><li class="nav-item ">
+              <a
+                  class="nav-link"
+                
+                  href="/"
+                >
+                Home
+              </a>
+              
+            </li><li class="nav-item ">
+              <a
+                  class="nav-link active default-active"
+                
+                  href="/fragments"
+                >
+                Fragments
+              </a>
+              
+            </li><li class="nav-item ">
+              <a
+                  class="nav-link"
+                
+                  href="/docs"
+                >
+                Docs
+              </a>
+              
+            </li><li class="nav-item ">
+              <a
+                  class="nav-link"
+                
+                  href="/about"
+                >
+                About
+              </a>
+              
+            </li>
+      </ul>
+        <div class="search-container position-relative">
+          <form action="/search" class="my-0">
+            <div class="input-group my-0">
+              <input type="text" class="form-control py-1" id="search-query-nav" name="s" placeholder="Search...">
+              <div class="input-group-append">
+                <button class="btn btn-primary" title="Search"><i class="fa fa-search"></i></button>
+              </div>
+            </div>
+          </form>
+          <div class="search-results-container">
+            <div class="col p-0">
+              <div id="search-results-nav" class="col px-0 results"></div>
+            </div>
+          </div>
+        </div>
+    </div>
+  </div>
+    <div class="d-none d-lg-block pl-auto">
+      <a class="btn btn-light ignore-color-change" href="https://github.com/hardin47/WiDS47_2022" role="button" title="Github">
+        <i class="fab fa-github mr-2"></i>
+        Star
+      </a>
+    </div>
+</nav>
+
+  <nav aria-label="breadcrumb" class="overlay navbar breadcrumb-container navbar-expand-lg pt-2 bg-light navbar-dark" id="nav-breadcrumb">
+    <div class="container">
+      <ol class="breadcrumb mb-0 py-1"><li class="breadcrumb-item active">Fragments showcase
+            </li></ol>
+    </div>
+  </nav>
+<div class="scroll-to-top bg-primary has-font-icon"
+  title="Back to top"
+  ><i class="fas fa-angle-up"></i><span class="sr-only">Back to top</span>
+</div>
+
+<script id="search-empty-template-nav" type="text/x-js-template">
+  <p class="p-2">Please enter a word or phrase above</p>
+</script>
+<script id="search-no-results-template-nav" type="text/x-js-template">
+  <p class="p-2">No matches found</p>
+</script>
+<script id="search-result-template-nav" type="text/x-js-template">
+  <a href="${link}" id="summary-${key}" class="result ignore-color-change">
+    <div class="p-2">
+      <h5>${title}</h5>
+      <p class="m-0 text-secondary">${snippet}</p>
+      ${ isset tags }<p>Tags: ${tags}</p>${ end }
+      ${ isset categories }<p>Categories: ${categories}</p>${ end }
+    </div>
+  </a>
+</script>
+
+<script>
+  (function() {
+    var fragmentName = "nav";
+    window.syna.api.register('search', 'search-' + fragmentName, {
+      searchInput: `#search-query-${fragmentName}`,
+      resultsContainer: `#search-results-${fragmentName}`,
+      template: `#search-result-template-${fragmentName}`,
+      noResults: `#search-no-results-template-${fragmentName}`,
+      empty: `#search-empty-template-${fragmentName}`,
+    });
+
+    var resultsContainer = document.querySelector(`#${fragmentName} .search-results-container`)
+    document.querySelector(`#search-query-${fragmentName}`).addEventListener('input', function(e) {
+      if (e.target.value.length) {
+        resultsContainer.classList.add('show');
+      } else {
+        resultsContainer.classList.remove('show');
+      }
+    });
+
+    document.addEventListener('click', function(e) {
+      if (!document.querySelector(`#${fragmentName} .search-container`).contains(e.target)) {
+        document.querySelector(`#search-query-${fragmentName}`).value = '';
+        resultsContainer.classList.remove('show');
+      }
+    });
+  })();
+</script>
+<style>
+  :root {
+    --header-height: 56px;
+  }
+</style>
 
 <!-- Content -->
 <section id="content" class="fragment content-fragment">
@@ -946,6 +1078,7 @@ fragments</a>.</p>
 
     <!-- Theme Code -->
       <script async defer src="/scripts/syna-main.min.0fee75bda576b036c6916366c93862bee0f9e51fac1be5360918faac938026cb.js"></script>
+      <script async defer src="/scripts/syna-search.min.3df04a93505fbf6586f20dce06e98593a7ecc5454898566698467074b8afce39.js"></script>
       <script async defer src="/scripts/syna-content.min.6153911e04fccadd0dba2ac14e0506d77050bc7d6cae8b35ef59ac87ad2db515.js"></script>
       <script async defer src="/scripts/syna-collapse.min.de5f8ef264f5eb459b658b53d7725614869a901852cc2f418f211304b906c06e.js"></script>
       <style>
