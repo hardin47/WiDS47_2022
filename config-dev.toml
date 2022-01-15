@@ -79,67 +79,45 @@ lastmod = ["lastmod", ":git", "date"]
   weight = 10
 
 [[menu.main]]
-  url = "/fragments"
-  name = "Fragments"
+  url = "/content"
+  name = "About WiDS"
   weight = 20
 
 [[menu.main]]
-  url = "/docs"
-  name = "Docs"
+  url = "/members"
+  name = "Speakers"
   weight = 30
 
 [[menu.main]]
-  url = "/dev"
-  name = "Dev Section"
+  url = "/contact"
+  name = "Registration"
   weight = 35
   identifier = "dev"
 
 [[menu.main]]
-  url = "/dev"
-  name = "Dev Section"
+  url = "/fragments"
+  name = "Program"
   weight = 10
   parent = "dev"
 
-[[menu.main]]
-  url = "/dev/colors"
-  name = "Colors"
-  weight = 20
-  parent = "dev"
-
-[[menu.main]]
-  url = "/dev/blog"
-  name = "Blog"
-  weight = 30
-  parent = "dev"
-
-[[menu.main]]
-  url = "/dev/events"
-  name = "Events"
-  weight = 40
-  parent = "dev"
-
-[[menu.main]]
-  url = "/about"
-  name = "About"
-  weight = 40
 
 [[menu.footer]]
-  url = "https://syna.okkur.org/demo"
-  name = "Getting Started"
+  url = "https://www.widsconference.org/"
+  name = "WiDS Global"
   weight = 10
 
 [[menu.footer]]
-  url = "https://about.okkur.org/"
-  name = "About Okkur Labs"
+  url = "https://datascience.library.claremont.edu/"
+  name = "Data Science in Claremont"
   weight = 20
 
 [[menu.footer_social]]
   weight = 30
   name = "github"
-  url = "https://git.okkur.org/syna"
+  url = "https://github.com/hardin47/WiDS47_2022"
   pre = "fab fa-github fa-stack-2x"
 
 [[menu.copyright_footer]]
-  url = "/about"
+  url = "/content"
   name = "About Us"
   weight = 10

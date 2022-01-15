@@ -8,10 +8,6 @@ background = "secondary"
 menu_title = "Further Resources"
 
 [asset]
-  image = "logo.svg"
-  text = "Logo Subtext"
+  image = "logo.png"
+  text = ""
 +++
-
-#### Syna Theme
-
-Highly customizable open source theme for Hugo based static websites

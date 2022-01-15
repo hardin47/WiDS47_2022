@@ -58,27 +58,30 @@ menu:
       url: /about
       weight: 10
   footer:
-    - name: Getting Started
-      url: https://syna.okkur.org/demo
+    - name: WiDS Global
+      url: https://www.widsconference.org/
       weight: 10
-    - name: About Okkur Labs
-      url: https://about.okkur.org/
+    - name: Data Science in Claremont
+      url: https://datascience.library.claremont.edu/
       weight: 20
   footer_social:
     - name: github
       pre: fab fa-github fa-stack-2x
-      url: https://git.okkur.org/syna
+      url: https://github.com/hardin47/WiDS47_2022
       weight: 30
   main:
     - name: Home
       url: /
       weight: 10
-    - name: Fragments
-      url: /fragments
+    - name: About WiDS
+      url: /content
       weight: 20
-    - name: Docs
-      url: /docs
+    - name: Speakers
+      url: /members
       weight: 30
-    - name: About
-      url: /about
+    - name: Registration
+      url: /contact
       weight: 40
+    - name: Program
+      url: /fragments
+      weight: 50
