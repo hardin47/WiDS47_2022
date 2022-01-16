@@ -1,6 +1,6 @@
 +++
 fragment = "header"
-weight = "10"
+weight = "50"
 
 background = "light"
 title = "WiDS Claremont Speakers"

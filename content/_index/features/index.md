@@ -1,6 +1,6 @@
 +++
 fragment = "items"
-weight = 50
+weight = 100
 background = "light"
 
 title = "Sponsors"
