@@ -12,7 +12,7 @@ scope = [
 ]
 
 [[icons]]
-  icon = "fab fa-house"
+  icon = "fab fa-house-user"
   url = "https://hilaryparker.com/"
   
 [[icons]]

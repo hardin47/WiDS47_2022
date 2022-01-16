@@ -2,7 +2,7 @@
 fragment = "content"
 weight = 100
 
-title = "WiDS Claremont Ambassadors"
+title = ""
 background = "light"
 +++
 

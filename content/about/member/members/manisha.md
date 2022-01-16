@@ -6,7 +6,7 @@ date = "2017-10-17"
 position = "Associate Professor of Economics"
 
 [[icons]]
-  icon = "fab fa-house"
+  icon = "fab fa-house-user"
   url = "http://manishagoel.weebly.com/"
 
 [[icons]]
