@@ -19,7 +19,7 @@ subtitle = "If you see this, directory fragment fallthrough is working"
 
 [[buttons]]
   text = "Sponsors"
-  url = "#sponsors"
+  url = "#features"
   color = "dark" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
 
 [[buttons]]

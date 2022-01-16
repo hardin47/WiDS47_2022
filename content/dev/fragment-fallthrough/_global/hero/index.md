@@ -19,7 +19,7 @@ subtitle = "If you see this, directory_same_name is not working"
 
 [[buttons]]
   text = "Sponsors"
-  url = "#sponsors"
+  url = "#features"
   color = "dark" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
 
 [[buttons]]
