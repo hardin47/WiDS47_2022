@@ -2,7 +2,7 @@
 fragment = "member"
 disabled = false
 date = "2022-04-01"
-weight = 120
+weight = 60
 background = "secondary"
 
 title = ""
