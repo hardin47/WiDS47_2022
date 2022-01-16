@@ -89,13 +89,13 @@ lastmod = ["lastmod", ":git", "date"]
   weight = 30
 
 [[menu.main]]
-  url = "/contact"
+  url = "/registration"
   name = "Registration"
   weight = 35
   identifier = "dev"
 
 [[menu.main]]
-  url = "/docs"
+  url = "/program"
   name = "Program"
   weight = 10
   parent = "dev"

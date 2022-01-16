@@ -2,35 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/docs/installation/</loc>
-    <lastmod>2022-01-15T10:19:09-08:00</lastmod>
+    <loc>/program/installation/</loc>
   </url><url>
-    <loc>/docs/fragments/</loc>
-    <lastmod>2022-01-15T10:19:09-08:00</lastmod>
+    <loc>/program/fragments/</loc>
   </url><url>
-    <loc>/docs/events/</loc>
-    <lastmod>2022-01-15T10:19:09-08:00</lastmod>
+    <loc>/program/events/</loc>
   </url><url>
-    <loc>/docs/global-variables/</loc>
-    <lastmod>2022-01-15T10:19:09-08:00</lastmod>
+    <loc>/program/global-variables/</loc>
   </url><url>
-    <loc>/docs/image-fallthrough/</loc>
-    <lastmod>2022-01-15T10:19:09-08:00</lastmod>
+    <loc>/program/image-fallthrough/</loc>
   </url><url>
-    <loc>/docs/styling/</loc>
-    <lastmod>2022-01-15T10:19:09-08:00</lastmod>
+    <loc>/program/styling/</loc>
   </url><url>
-    <loc>/docs/development/</loc>
-    <lastmod>2022-01-15T10:19:09-08:00</lastmod>
+    <loc>/program/development/</loc>
   </url><url>
-    <loc>/docs/fragments-implementation/</loc>
-    <lastmod>2022-01-15T10:19:09-08:00</lastmod>
+    <loc>/program/fragments-implementation/</loc>
   </url><url>
-    <loc>/docs/multilingual/</loc>
-    <lastmod>2022-01-15T10:19:09-08:00</lastmod>
+    <loc>/program/multilingual/</loc>
   </url><url>
-    <loc>/docs/deployment/</loc>
-    <lastmod>2022-01-15T10:19:09-08:00</lastmod>
+    <loc>/program/deployment/</loc>
   </url><url>
     <loc>/fragments/404/</loc>
     <lastmod>2022-01-15T12:13:00-08:00</lastmod>
@@ -131,8 +121,7 @@
     <loc>/_index/</loc>
     <lastmod>2022-01-15T14:26:16-08:00</lastmod>
   </url><url>
-    <loc>/docs/</loc>
-    <lastmod>2022-01-15T10:19:09-08:00</lastmod>
+    <loc>/program/</loc>
   </url><url>
     <loc>/fragments/</loc>
     <lastmod>2022-01-15T10:19:09-08:00</lastmod>

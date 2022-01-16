@@ -6,7 +6,7 @@ date = "2017-10-17"
 position = "Professor of Mathematics and Statistics"
 
 [[icons]]
-  icon = "fab fa-house-user"
+  icon = "fas fa-house-user"
   url = "https://hardin47.netlify.app/"
   
 [[icons]]
