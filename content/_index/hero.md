@@ -19,21 +19,21 @@ subtitle = "Pomona College, Claremont, CA, USA"
 
 [[buttons]]
   text = "About WiDS"
-  url = "#content"
+  url = "#about"
   color = "dark" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
   
 [[buttons]]
   text = "Speakers"
-  url = "#members"
+  url = "#speakers"
   color = "dark" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
 
 [[buttons]]
   text = "Registration"
-  url = "#contact"
+  url = "#registration"
   color = "dark"
 
 [[buttons]]
   text = "Program"
-  url = "#fragments"
+  url = "#docs"
   color = "dark"
 +++

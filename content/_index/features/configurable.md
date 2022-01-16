@@ -3,7 +3,7 @@ title = "Configurable"
 weight = 20
 
 [asset]
-  icon = "st47sd47am47h.png"
+  icon = "fas fa-cube"
 +++
 
 Pomona College Department of Mathematics and Statistics
