@@ -18,17 +18,21 @@ subtitle = "If you see this, directory fragment fallthrough is working"
   #height = "150px" # optional - will default to image height
 
 [[buttons]]
-  text = "Features"
+  text = "Speakers"
+  url = "#speakers"
+  color = "dark"
+  
+[[buttons]]
+  text = "Program"
+  url = "/docs/"
+  color = "primary"
+  
+[[buttons]]
+  text = "Sponsors"
   url = "#features"
   color = "dark" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
 
-[[buttons]]
-  text = "Getting Started"
-  url = "/docs/"
-  color = "primary"
 
-[[buttons]]
-  text = "Fragments"
-  url = "#fragments"
-  color = "dark"
+
+
 +++
