@@ -1,13 +1,17 @@
 +++
 title = "Michelle Zemmel"
-weight = 20
+weight = 30
 date = "2017-10-17"
 
-lives_in = "[California](https://research.pomona.edu/michelle-zemel/)"
+position = "Associate Professor of Economics"
+
+[[icons]]
+  icon = "fab fa-house"
+  url = "https://research.pomona.edu/michelle-zemel/"
 
 [[icons]]
   icon = "fab fa-linkedin-in"
-  url = "#"
+  url = "https://www.linkedin.com/in/michelle-zemel-778a152/"
 
 [asset]
   image = "michelle_zemmel.png"

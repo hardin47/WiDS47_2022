@@ -1,11 +1,14 @@
 +++
 title = "Jo Hardin"
-weight = 10
+weight = 20
 date = "2017-10-17"
 
 position = "Professor of Mathematics and Statistics"
-lives_in = "[California](https://hardin47.netlify.app/)"
 
+[[icons]]
+  icon = "fab fa-house"
+  url = "https://hardin47.netlify.app/"
+  
 [[icons]]
   icon = "fab fa-twitter"
   url = "https://twitter.com/jo_hardin47"

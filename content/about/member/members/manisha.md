@@ -1,10 +1,13 @@
 +++
 title = "Manisha Goel"
-weight = 0
+weight = 10
 date = "2017-10-17"
 
 position = "Associate Professor of Economics"
-lives_in = "[California](http://manishagoel.weebly.com/)"
+
+[[icons]]
+  icon = "fab fa-house"
+  url = "http://manishagoel.weebly.com/"
 
 [[icons]]
   icon = "fab fa-linkedin-in"

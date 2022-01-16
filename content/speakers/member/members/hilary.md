@@ -5,13 +5,16 @@ date = ""
 #disabled = true
 
 position = "Data Scientist"
-lives_in = "[California](https://hilaryparker.com/)"
 scope = [
   "[Stitch Fix](https://multithreaded.stitchfix.com/)",
   "[Etsy](https://www.dsml.etsy.com/)",
   "[2020 Biden for President Campaign](https://www.democracyinaction.us/2020/biden/bidenorg2.html)"
 ]
 
+[[icons]]
+  icon = "fab fa-house"
+  url = "https://hilaryparker.com/"
+  
 [[icons]]
   icon = "fab fa-linkedin-in"
   url = "https://www.linkedin.com/in/parkerhilary/"
