@@ -1,6 +1,6 @@
 +++
 fragment = "list"
-weight = 250
+weight = 20
 
 background = "light"
 count = 1000

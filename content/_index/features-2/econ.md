@@ -6,4 +6,4 @@ weight = 20
   image = "carnegie.png"
 +++
 
-Pomona College Department of Economics
+[Pomona College Department of Economics](https://www.pomona.edu/academics/departments/economics)
