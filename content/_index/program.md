@@ -4,7 +4,7 @@ weight = 60
 
 background = "secondary"
 count = 1000
-section = "Program"
+title = "Program at a Glance"
 +++
 
 
@@ -27,7 +27,7 @@ text-align: center;
 <div class="heatMap">
 
 
-| Time     	|  <pre>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</pre> 	| Event            	|  <pre>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</pre> 	| Place       	|
+| Time     	|  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 	| Event            	|  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 	| Place       	|
 |----------	|---	|------------------	|---	|-------------	|
 | 10-10:30am 	|   	| registration     	|   	| Doms Lounge,SCC 	|
 | 10:30-12pm 	|   	| keynote 1        	|   	|             	|
