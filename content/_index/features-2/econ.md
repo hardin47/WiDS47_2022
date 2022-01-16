@@ -1,5 +1,5 @@
 +++
-title = "Economics"
+title = ""
 weight = 20
 
 [asset]

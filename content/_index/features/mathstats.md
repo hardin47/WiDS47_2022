@@ -1,5 +1,5 @@
 +++
-title = "Math + Stats"
+title = ""
 weight = 10
 
 [asset]
