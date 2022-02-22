@@ -1,6 +1,6 @@
 +++
 title = "Hilary Parker"
-weight = 10
+weight = 12
 date = ""
 #disabled = true
 

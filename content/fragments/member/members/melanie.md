@@ -1,21 +1,17 @@
 +++
-title = "Tiny Gopher"
+title = "Melanie Walsh"
 weight = 10
-date = "2017-10-17"
+date = ""
+#disabled = true
 
-position = "Gopherineer"
-reports_to = "Lead Gophineer"
-lives_in = "[Iceland](https://www.google.com/maps/place/Iceland/)"
+position = "Lead Gopherineer"
+reports_to = "CTO"
+lives_in = "[Munich, Germany](https://www.google.com/maps/place/Munich,+Germany/)"
 scope = [
-  "Gopherineering for various tasks",
-  "Contributor for [Goper Team A](#)",
-  "Gopher Community Member"
+  "UX for [Food Dashboard](#)",
+  "Maintainer for [Goper Team A](#)",
+  "Gopher [Community Administration](#)"
 ]
-
-[[icons]]
-  icon = "fab fa-twitter"
-  text = "Twitter"
-  url = "#"
 
 [[icons]]
   icon = "fab fa-linkedin-in"
@@ -23,10 +19,10 @@ scope = [
   url = "#"
 
 [asset]
-  image = "tinygopher.png"
+  image = "hugegopher.png"
 +++
 
-Really tiny Gopher
+Hugely huge Gopher
 
 Some more text to showcase the capabilities:
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
