@@ -14,7 +14,13 @@ Some stuff about WiDS Global, then Claremont, then us.
 
 ---
 
-To actually test out the full single page some Lorem Ipsum:
+## WiDS
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur a lorem urna. Quisque in neque malesuada, sollicitudin nunc porttitor, ornare est. Praesent ante enim, bibendum sed hendrerit et, iaculis laoreet felis. Morbi efficitur dui sit amet orci porttitor, nec tincidunt turpis elementum. Suspendisse rutrum, mi ac sollicitudin blandit, eros sem tincidunt enim, vitae feugiat turpis eros ut diam. Nunc hendrerit, nibh vitae dignissim pretium, magna nulla lacinia massa, et interdum lacus purus ultricies lacus. Nulla tincidunt quis lacus in posuere. Integer urna lorem, ultricies ut est vel, rhoncus euismod metus. Vestibulum luctus maximus massa, ut egestas est iaculis in. Nunc nisi dolor, sodales et imperdiet ut, lacinia ac justo. Phasellus ultrices risus cursus maximus lobortis. Vestibulum sagittis elementum dignissim. Suspendisse iaculis venenatis nisl, sed bibendum urna. Aliquam quis pellentesque tortor. Sed sed cursus nisl. Aenean eu lorem condimentum, feugiat mauris vitae, hendrerit tellus.
+WiDS Claremont is an independent event organized by Manisha Goel, Jo Hardin, and Michelle Zemel to coincide with the annual Global Women in Data Science (WiDS) Conference held at Stanford University and an estimated 150+ locations worldwide. All genders are invited to attend WiDS regional events, which features outstanding women doing outstanding work.
+
+## Pomona College
+
+Pomona College is a small liberal arts college in Southern California. With approximately 1700 students enrolled, it is part of the Claremont Colleges Consortium, consisting of Scripps Collge, Pitzer College, Harvey Mudd College, Claremont McKenna College, and the Claremont Graduate University.   
+
+## Organizers
 
