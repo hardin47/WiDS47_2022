@@ -30,12 +30,14 @@ text-align: center;
 
 | Time     	|  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 	| Event            	|  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 	| Place       	|
 |----------	|---	|------------------	|---	|-------------	|
-| 10-10:30am 	|   	| registration     	|   	| Doms Lounge,SCC 	|
-| 10:30-12pm 	|   	| keynote 1        	|   	|             	|
-| 12-1pm     	|   	| networking lunch 	|   	| SCC Lawn    	|
-| 1-2pm      	|   	| panel            	|   	|             	|
-| 2-2:30pm 	|   	| coffee           	|   	|             	|
-| 2:30-4pm 	|   	| keynote 2        	|   	|             	|
+| 9:30-10am 	|   	| registration + coffee    	|   	| Doms Lounge,SCC 	|
+| 10:00-11am 	|   	| keynote 1        	|   	|             	|
+| 11-11:30am 	|   	| networking coffee       	|   	|             	|
+| 11:30-12:30pm 	|   	| keynote 2        	|   	|             	|
+| 12:30-2pm     	|   	| lunch on your own	|   	|   	|
+| 2-3pm      	|   	| alumni panel            	|   	|             	|
+| 3-3:30pm 	|   	| networking coffee           	|   	|             	|
+| 3:30-4:30pm 	|   	| keynote 3        	|   	|             	|
 
 </center>
 </div>
