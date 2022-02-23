@@ -1,6 +1,6 @@
 +++
 title = "Melanie Walsh"
-weight = 10
+weight = 14
 date = ""
 #disabled = true
 
@@ -27,4 +27,4 @@ scope = [
 
 Melanie Walsh 
 
-is an Assistant Teaching Professor in the iSchool at the University of Washington. Previously, she was a Postdoctoral Associate in Information Science at Cornell University, where she worked with David Mimno. Before that, she received her PhD in English & American Literature from Washington University in St. Louis, where she was a Fellow in the Humanities Digital Workshop. Her research interests include data science, digital humanities, cultural analytics, social media, and American literature & culture—preferably all of the above combined. 
+is an Assistant Teaching Professor in the [iSchool at the University of Washington](https://ischool.uw.edu/). Previously, she was a Postdoctoral Associate in [Information Science at Cornell University](https://infosci.cornell.edu/), where she worked with [David Mimno](https://mimno.infosci.cornell.edu/). Before that, she received her PhD in English & American Literature from [Washington University in St. Louis](https://wustl.edu/), where she was a Fellow in the [Humanities Digital Workshop](https://hdw.wustl.edu/). Her research interests include data science, digital humanities, cultural analytics, social media, and American literature & culture—preferably all of the above combined. 
