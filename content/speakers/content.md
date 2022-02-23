@@ -9,9 +9,10 @@ title = "WiDS Claremont Speakers"
 #subtitle = ""
 +++
 
-This will mostly just be the bios.  I don't know if we want any text?
+
+<!---This will mostly just be the bios.  I don't know if we want any text? --->
 
 
 ---
 
-Above the line, below the line.
+<!--- Above the line, below the line. --->
