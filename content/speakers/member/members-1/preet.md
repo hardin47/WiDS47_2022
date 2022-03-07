@@ -1,6 +1,6 @@
 +++
 title = "Preet Khowaja"
-weight = 28
+weight = 23
 date = ""
 #disabled = true
 
