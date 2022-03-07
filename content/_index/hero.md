@@ -16,6 +16,7 @@ subtitle = "Pomona College, Claremont, CA, USA"
   #image = "logo.svg"
   #width = "500px" # optional - will default to image width
   #height = "150px" # optional - will default to image height
++++
 
 [[buttons]]
   text = "About WiDS"
@@ -36,4 +37,3 @@ subtitle = "Pomona College, Claremont, CA, USA"
   text = "Program"
   url = "#program"
   color = "dark"
-+++
