@@ -95,7 +95,7 @@ lastmod = ["lastmod", ":git", "date"]
   identifier = "dev"
 
 [[menu.main]]
-  url = "/docs"
+  url = "/program"
   name = "Program"
   weight = 10
   parent = "dev"
