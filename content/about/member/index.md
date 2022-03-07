@@ -2,7 +2,7 @@
 fragment = "content"
 weight = 100
 
-title = ""
+title = "About WiDS"
 background = "light"
 +++
 

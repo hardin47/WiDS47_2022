@@ -1,4 +1,4 @@
 +++
-title = "About WiDS"
+title = ""
 date = "2017-10-05"
 +++
