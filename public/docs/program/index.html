@@ -14,28 +14,45 @@
   <meta name="google" content="notranslate" />
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
-  <meta name="description" content="Supported Colors Fragments and various elements can be customized further using Bootstrap color classes. These colors are customized within config.toml to fit the Syna theme.
-   class colors     primary #00838F   secondary #868e96   success #008f54   info #00838F   warning #fdf314   danger #dc1200   light #f8f9fa   dark #343a40    In order to change the primary color, you can update the primary color within your config.">
-  <meta property="og:title" content="Styling" />
-<meta property="og:description" content="" />
+  <meta name="description" content="There are a few frontmatter variables that can be used for all fragments. The variables are as follows:
+fragment type: string
+Required for every fragment
+Specifies what fragment the current file controls. Checkout Fragment Implementation for more info.
+weight type: number
+Required for every fragment
+This variable is used for ordering fragments in a page. It can be empty but it would cause the fragment to be sorted in an unexpected manner.">
+  <meta property="og:title" content="Program" />
+<meta property="og:description" content="All times listed are in United States Pacific time zone. All events will take place at Pomona College in the Studio Art Building, 2nd floor outside classroom
+9:30-9:45am, registration &#43; coffee
+9:45am, welcome to WiDS, Gabi Starr
+10 - 11:00am, keynote address, &ldquo;Data as Culture&rdquo;, Melanie Walsh
+11-11:30am, networking coffee
+11:30-12:30pm, keynote address, &ldquo;&rdquo;, Hilary Parker
+12:30-2pm, lunch on your own
+2-3pm, alumni panel, Nicole Bauthier, Preet Khowaja, Lily Liu, Amy Watt" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="/docs/styling/" /><meta property="article:section" content="docs" />
+<meta property="og:url" content="/docs/program/" /><meta property="article:section" content="docs" />
 
-<meta property="article:modified_time" content="2022-01-15T17:04:07-08:00" />
+
 
 
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="Styling &amp;middot; WiDS47" />
-  <meta name="twitter:description" content="Supported Colors Fragments and various elements can be customized further using Bootstrap color classes. These colors are customized within config.toml to fit the Syna theme.
-   class colors     primary #00838F   secondary #868e96   success #008f54   info #00838F   warning #fdf314   danger #dc1200   light #f8f9fa   dark #343a40    In order to change the primary color, you can update the primary color within your config.">
-  <meta name="twitter:url" content="/docs/styling/" />
+  <meta name="twitter:title" content="Program &amp;middot; WiDS47" />
+  <meta name="twitter:description" content="There are a few frontmatter variables that can be used for all fragments. The variables are as follows:
+fragment type: string
+Required for every fragment
+Specifies what fragment the current file controls. Checkout Fragment Implementation for more info.
+weight type: number
+Required for every fragment
+This variable is used for ordering fragments in a page. It can be empty but it would cause the fragment to be sorted in an unexpected manner.">
+  <meta name="twitter:url" content="/docs/program/" />
         <meta property="og:image" content="">
         <meta name="twitter:image" content="">
   <meta name="author" content="Okkur Labs">
 
   <meta name="generator" content="Hugo 0.84.0" />
 
-  <title>Styling &middot; WiDS47</title>
+  <title>Program &middot; WiDS47</title>
 
   <!-- Theme Styles -->
   <style>
@@ -481,7 +498,7 @@ html {
     <div class="container">
       <ol class="breadcrumb mb-0 py-1"><li class="breadcrumb-item active"ZgotmplZ>
                 <a href="/docs/">Documentation</a>
-            </li><li class="breadcrumb-item active">Styling
+            </li><li class="breadcrumb-item active">Program
             </li></ol>
     </div>
   </nav>
@@ -637,11 +654,11 @@ html {
                 <div class="col-12 pl-0 pb-1 text-body">
                   <div data-toggle="collapse" data-target="#list-page-program .collapse" data-add-collapse="#list-page-program .article-title"
                     class="row align-items-center justify-content-between mx-0 article-title">
-                      <h5 class="col px-0 m-0">
+                      <h5 class="col px-0 m-0 active-page">
                         <a href="/docs/program/">Program</a>
                       </h5>
                   </div>
-                </div><div class="collapse">
+                </div><div class="collapse show">
 <!--  -->
 <section id="" class="fragment ">
     <div class="container p-0 ">
@@ -672,11 +689,11 @@ html {
                 <div class="col-12 pl-0 pb-1 text-body">
                   <div data-toggle="collapse" data-target="#list-page-styling .collapse" data-add-collapse="#list-page-styling .article-title"
                     class="row align-items-center justify-content-between mx-0 article-title">
-                      <h5 class="col px-0 m-0 active-page">
+                      <h5 class="col px-0 m-0">
                         <a href="/docs/styling/">Styling</a>
                       </h5>
                   </div>
-                </div><div class="collapse show">
+                </div><div class="collapse">
 <!--  -->
 <section id="" class="fragment ">
     <div class="container p-0 ">
@@ -808,7 +825,7 @@ html {
       <article class="col-md-9">
   <div class="title-container row mx-0">
     <div class="title col px-0 text-center text-body">
-      <h2>Supported Colors</h2>
+      <h2>Global Variables</h2>
     </div>
   </div>
 <div class="content-body col-12 content px-0 text-body">
@@ -819,106 +836,71 @@ html {
   <ul>
     <li>
       <ul>
-        <li><a href="/docs/styling/#supported-colors">Supported Colors</a></li>
-        <li><a href="/docs/styling/#postcss">PostCSS</a></li>
-        <li><a href="/docs/styling/#rtl-stylesheet">RTL stylesheet</a></li>
+        <li></li>
       </ul>
     </li>
   </ul>
 </nav></div>
     </div>
 </section>
-<h3 id="supported-colors">Supported Colors</h3>
-<p>Fragments and various elements can be customized further using Bootstrap color classes.
-These colors are customized within <code>config.toml</code> to fit the Syna theme.</p>
-<table>
-<thead>
-<tr>
-<th>class</th>
-<th>colors</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>primary</td>
-<td>#00838F</td>
-</tr>
-<tr>
-<td>secondary</td>
-<td>#868e96</td>
-</tr>
-<tr>
-<td>success</td>
-<td>#008f54</td>
-</tr>
-<tr>
-<td>info</td>
-<td>#00838F</td>
-</tr>
-<tr>
-<td>warning</td>
-<td>#fdf314</td>
-</tr>
-<tr>
-<td>danger</td>
-<td>#dc1200</td>
-</tr>
-<tr>
-<td>light</td>
-<td>#f8f9fa</td>
-</tr>
-<tr>
-<td>dark</td>
-<td>#343a40</td>
-</tr>
-</tbody>
-</table>
-<p>In order to change the primary color, you can update the primary color within your <code>config.toml</code> file:</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-toml" data-lang="toml">[<span style="color:#a6e22e">params</span>]
-  [<span style="color:#a6e22e">params</span>.<span style="color:#a6e22e">colors</span>]
-      <span style="color:#a6e22e">primary</span> = <span style="color:#e6db74">&#34;#00838F&#34;</span>
-</code></pre></div><p>Please note that <code>colors</code> is under <code>params</code> section of your configuration.</p>
-<p>These colors are mainly used for backgrounds and button colors.<br>
-By changing the colors, all fragment colors and backgrounds will be changed to the new colors. Links, inline code and other elements will also be changed.<br>
-These colors can also be overwritten for more details see our <a href="/docs/development/#styles">style documentation</a>.</p>
-<p><strong>Important:</strong> These colors define the color scheme that Bootstrap uses. As you update them, be careful to keep the contrast between different colors. Since it&rsquo;s not possible to recognize the contrast of colors within Syna, we rely on the names of colors when setting different text colors for different backgrounds. So if you change the <code>primary</code> color to a darker color, text colors will still use the <code>text-body</code> class from Bootstrap which is a dark color and may result in unreadable text.</p>
-<h3 id="postcss">PostCSS</h3>
-<p>PostCSS is enabled by default and will look for its configuration file when Hugo is building your website. You can add your configuration to <code>postcss.config.js</code> at the root of your project. Here are some recommended configurations. Please note that you can combine these configurations and use them together.</p>
-<h4 id="removing-unused-css">Removing unused CSS</h4>
-<p>We recommend using <code>@fullhuman/postcss-purgecss</code> along PostCSS to remove unused CSS from your website. PurgeCSS will drastically reduce the size of your website. Since we use Bootstrap to develop our built-in fragments, the final CSS bundle is mostly Bootstrap code that goes unused. To remove the unused parts, please run:</p>
-<ul>
-<li><code>npm install @fullhuman/postcss-purgecss</code> or <code>yarn add @fullhuman/postcss-purgecss</code></li>
-<li>Add the following code to <code>&lt;root-directory&gt;/postcss.config.js</code>:</li>
-</ul>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-javascript" data-lang="javascript"><span style="color:#66d9ef">const</span> <span style="color:#a6e22e">purgecss</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">require</span>(<span style="color:#e6db74">&#39;@fullhuman/postcss-purgecss&#39;</span>)({
-  <span style="color:#a6e22e">content</span><span style="color:#f92672">:</span> [<span style="color:#e6db74">&#39;./hugo_stats.json&#39;</span>],
-  <span style="color:#a6e22e">defaultExtractor</span><span style="color:#f92672">:</span> (<span style="color:#a6e22e">content</span>) =&gt; {
-    <span style="color:#66d9ef">let</span> <span style="color:#a6e22e">els</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">JSON</span>.<span style="color:#a6e22e">parse</span>(<span style="color:#a6e22e">content</span>).<span style="color:#a6e22e">htmlElements</span>;
-    <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">els</span>.<span style="color:#a6e22e">tags</span>.<span style="color:#a6e22e">concat</span>(<span style="color:#a6e22e">els</span>.<span style="color:#a6e22e">classes</span>, <span style="color:#a6e22e">els</span>.<span style="color:#a6e22e">ids</span>, [
-      <span style="color:#e6db74">&#39;active&#39;</span>,
-      <span style="color:#e6db74">&#39;show&#39;</span>,
-      <span style="color:#e6db74">&#39;in&#39;</span>,
-    ]);
-  },
-});
-
-<span style="color:#a6e22e">module</span>.<span style="color:#a6e22e">exports</span> <span style="color:#f92672">=</span> {
-  <span style="color:#a6e22e">plugins</span><span style="color:#f92672">:</span> [
-    ...(<span style="color:#a6e22e">process</span>.<span style="color:#a6e22e">env</span>.<span style="color:#a6e22e">HUGO_ENVIRONMENT</span> <span style="color:#f92672">===</span> <span style="color:#e6db74">&#39;production&#39;</span> <span style="color:#f92672">?</span> [<span style="color:#a6e22e">purgecss</span>] <span style="color:#f92672">:</span> []),
-  ],
-};
-</code></pre></div><h3 id="rtl-stylesheet">RTL stylesheet</h3>
-<p>Syna is created for LTR languages but changing the theme to accommodate RTL languages is quite easy. In order to change the direction of the stylesheet, please run the following command:</p>
-<ul>
-<li><code>npm install rtlcss</code> or <code>yarn add rtlcss</code></li>
-<li>Add the following code to <code>&lt;root-directory&gt;/postcss.config.js</code>:</li>
-</ul>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-javascript" data-lang="javascript"><span style="color:#a6e22e">module</span>.<span style="color:#a6e22e">exports</span> <span style="color:#f92672">=</span> {
-  <span style="color:#a6e22e">plugins</span><span style="color:#f92672">:</span> [
-    <span style="color:#a6e22e">require</span>(<span style="color:#e6db74">&#39;rtlcss&#39;</span>)()
-  ]
-}
-</code></pre></div></div>
+<p>There are a few frontmatter variables that can be used for all fragments. The
+variables are as follows:</p>
+<h4 id="fragment">fragment</h4>
+<p><em>type: string</em><br>
+<strong>Required for every fragment</strong></p>
+<p>Specifies what fragment the current file controls. Checkout <a href="/docs/fragments-implementation/">Fragment Implementation</a> for more info.</p>
+<h4 id="weight">weight</h4>
+<p><em>type: number</em><br>
+<strong>Required for every fragment</strong></p>
+<p>This variable is used for ordering fragments in a page. It can be empty but it would cause the fragment to be sorted in an unexpected manner.</p>
+<h4 id="background">background</h4>
+<p>Set the background of the fragment.</p>
+<p>Background also affects the text color of the fragment&rsquo;s content.
+For the background colors of <code>white</code>, <code>light</code>, <code>secondary</code> and <code>primary</code> we use Bootstrap&rsquo;s <code>text_dark</code> class on content and for other backgrounds, we use <code>text_light</code>.</p>
+<p>List of all supported colors can be found in <a href="/docs/styling/#supported-colors">supported colors</a> section of the docs.</p>
+<h4 id="title">title</h4>
+<p><em>type: string</em></p>
+<p>Set title of the fragment</p>
+<h4 id="subtitle">subtitle</h4>
+<p><em>type: string</em></p>
+<p>Set subtitle of the fragment</p>
+<h4 id="title_align">title_align</h4>
+<p><em>type: string</em><br>
+<em>accepted values: right, left, center</em></p>
+<p>Change alignment of fragment&rsquo;s header</p>
+<h4 id="padding">padding</h4>
+<p><em>type: string</em><br>
+<em>Experimental</em></p>
+<p>Changes the padding of fragment&rsquo;s container</p>
+<h4 id="asset">asset</h4>
+<p><em>type: asset object</em></p>
+<p>This variable is not a global variable but a variable type that is used in a lot of fragments.</p>
+<p>Any fragment that uses this variable type would show either an image or an icon.</p>
+<p>The type is introduced to make configuring images and icons same between different fragments.</p>
+<p>Some fragments automatically resize images to better fit the layout. For the best result use the documented size of each fragment&rsquo;s asset object.
+<em>To disable image resizing use assets stored within <code>static/</code> as these are excluded from auto resizing.</em>
+Please make sure to provide the correct size as documented for each fragment&rsquo;s asset object.</p>
+<h5 id="assetimage">asset.image</h5>
+<p><em>type: string</em></p>
+<p>Link to an image file. <code>asset.image</code> supports the build in <a href="/docs/image-fallthrough/">image fallthrough mechanism</a>.
+If <code>asset.image</code> is set, <code>asset.icon</code> will be ignored.</p>
+<h5 id="asseticon">asset.icon</h5>
+<p><em>type: string</em></p>
+<p>Icon class powered by FontAwesome such as <code>fab fab-github</code>.</p>
+<h5 id="asseturl">asset.url</h5>
+<p><em>type: string</em></p>
+<p>Action/clickable URL of the image or the icon.</p>
+<h5 id="assettext">asset.text</h5>
+<p><em>type: string</em></p>
+<p>If <code>asset.image</code> is set, <code>text</code> will be used as alternative text (alt-text) of the image.</p>
+<h4 id="disable">disable</h4>
+<p><em>type: boolean</em></p>
+<p>If set to <code>true</code>, Syna will not register the fragment. This is useful for drafting fragments.</p>
+<p><strong>NOTE:</strong> <code>disable</code> doesn&rsquo;t register the fragment at all. This means you can not remove a global fragment in a specific page by a duplicate disabled fragment. In order to hide a global fragment in a page, use <a href="#hide"><code>hide</code></a>.</p>
+<h4 id="hide">hide</h4>
+<p><em>type: boolean</em></p>
+<p>If set to <code>true</code>, Syna will not call the fragment and will hide it. Useful for hiding a global fragment in the page. For more information, please checkout <a href="/docs/fragments//#global-fragments">global fragments</a>.</p>
+</div>
     </article>
   </div>
     </div>

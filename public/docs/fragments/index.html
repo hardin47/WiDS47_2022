@@ -632,13 +632,13 @@ html {
     </div>
 </section>
 </div>
-        </article><article id="list-page-global-variables"
+        </article><article id="list-page-program"
           class="col-12 px-0 mb-2">
                 <div class="col-12 pl-0 pb-1 text-body">
-                  <div data-toggle="collapse" data-target="#list-page-global-variables .collapse" data-add-collapse="#list-page-global-variables .article-title"
+                  <div data-toggle="collapse" data-target="#list-page-program .collapse" data-add-collapse="#list-page-program .article-title"
                     class="row align-items-center justify-content-between mx-0 article-title">
                       <h5 class="col px-0 m-0">
-                        <a href="/docs/global-variables/">Global Variables</a>
+                        <a href="/docs/program/">Program</a>
                       </h5>
                   </div>
                 </div><div class="collapse">
@@ -899,7 +899,7 @@ All fragments within this directory are rendered on all pages by default.<br>
 <em>To prevent the page being rendered as a separate page on your website, we define the whole directory as a <code>headless</code> bundle within the index.md file.</em>
 To overwrite a global fragment create a per page fragment with the same filename.
 This would overwrite the global one.</p>
-<p>In order to hide a global fragment in a specific page or section, you can use the <a href="/docs/global-variables//#hide"><code>hide</code> global variable</a>.</p>
+<p>In order to hide a global fragment in a specific page or section, you can use the <a href="/#hide"><code>hide</code> global variable</a>.</p>
 <p>Aside from the <code>content/_global/</code> directory, you can create <code>_global/</code> directory in any section&rsquo;s directory (<code>content/[section]/_global/</code>).
 Each section can have global fragments and if there are multiple fragments with the same name, the fragment closest to the page would override the others.</p>
 <h5 id="disabling-a-global-fragment-in-specific-pagessections">Disabling a global fragment in specific pages/sections</h5>
@@ -914,7 +914,7 @@ disabled = true
 +++
 </code></pre><h3 id="built-in-fragments">Built-in fragments</h3>
 <p>There are several pre-bundled fragments already available in Syna. You can see the full list and their documentation in the <a href="/fragments/">fragments</a> section.
-These fragments make use of some <a href="/docs/global-variables/">global variables</a> along with their own variables which are mentioned in the fragment&rsquo;s page.</p>
+These fragments make use of some <a href="">global variables</a> along with their own variables which are mentioned in the fragment&rsquo;s page.</p>
 <h3 id="custom-fragments">Custom fragments</h3>
 <p>You can add your own custom fragment by creating a new layout file within your website&rsquo;s <code>layouts/partials/fragments/</code> directory.
 If this path doesn&rsquo;t exist yet, you can create it beforehand.</p>
