@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/program/program/</loc>
-    <lastmod>2022-03-07T05:50:57-08:00</lastmod>
-  </url><url>
     <loc>/search/</loc>
     <lastmod>2022-01-15T10:19:09-08:00</lastmod>
   </url><url>
@@ -20,10 +17,10 @@
     <loc>/about/</loc>
     <lastmod>2022-03-06T21:35:48-08:00</lastmod>
   </url><url>
-    <loc>/registration/_index/</loc>
+    <loc>/registration/</loc>
     <lastmod>2022-03-06T21:56:26-08:00</lastmod>
   </url><url>
-    <loc>/registration/</loc>
+    <loc>/registration/_index/</loc>
     <lastmod>2022-03-06T21:56:26-08:00</lastmod>
   </url><url>
     <loc>/speakers/</loc>
