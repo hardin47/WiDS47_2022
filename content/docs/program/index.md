@@ -8,7 +8,7 @@ All times listed are in United States Pacific time zone. All events will take pl
 
 9:30-9:45am, registration + coffee 
 
-9:45am, welcome to WiDS, [Gabi Starr](https://www.pomona.edu/administration/president)
+9:45am, welcome to WiDS, [President G. Gabrielle Starr](https://www.pomona.edu/administration/president)
 
 10 - 11:00am, keynote address, "Data as Culture", [Melanie Walsh](melaniewalsh.org)
 

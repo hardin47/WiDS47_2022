@@ -2,34 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/docs/installation/</loc>
-    <lastmod>2022-01-15T17:04:07-08:00</lastmod>
-  </url><url>
-    <loc>/docs/fragments/</loc>
-    <lastmod>2022-01-15T17:04:07-08:00</lastmod>
-  </url><url>
-    <loc>/docs/events/</loc>
-    <lastmod>2022-01-15T17:04:07-08:00</lastmod>
-  </url><url>
     <loc>/docs/program/</loc>
-  </url><url>
-    <loc>/docs/image-fallthrough/</loc>
-    <lastmod>2022-01-15T17:04:07-08:00</lastmod>
-  </url><url>
-    <loc>/docs/styling/</loc>
-    <lastmod>2022-01-15T17:04:07-08:00</lastmod>
-  </url><url>
-    <loc>/docs/development/</loc>
-    <lastmod>2022-01-15T17:04:07-08:00</lastmod>
-  </url><url>
-    <loc>/docs/fragments-implementation/</loc>
-    <lastmod>2022-01-15T17:04:07-08:00</lastmod>
-  </url><url>
-    <loc>/docs/multilingual/</loc>
-    <lastmod>2022-01-15T17:04:07-08:00</lastmod>
-  </url><url>
-    <loc>/docs/deployment/</loc>
-    <lastmod>2022-01-15T17:04:07-08:00</lastmod>
+    <lastmod>2022-03-07T05:38:26-08:00</lastmod>
   </url><url>
     <loc>/fragments/404/</loc>
     <lastmod>2022-01-15T12:13:00-08:00</lastmod>
