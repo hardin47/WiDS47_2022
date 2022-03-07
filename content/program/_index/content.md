@@ -1,9 +1,6 @@
 +++
 fragment = "content"
 weight = 100
-
-[sidebar]
-  sticky = true
 +++
 
 All times listed are in United States Pacific time zone. All events will take place at Pomona College in the Studio Art Building, 2nd floor outside classroom

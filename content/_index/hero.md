@@ -34,6 +34,6 @@ subtitle = "Pomona College, Claremont, CA, USA"
 
 [[buttons]]
   text = "Program"
-  url = "#docs"
+  url = "#program"
   color = "dark"
 +++
