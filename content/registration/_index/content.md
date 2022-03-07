@@ -2,8 +2,8 @@
 fragment = "content"
 weight = 100
 
-title = "Registration"
-subtitle = "content title"
+title = "WiDS Claremont Registration"
+subtitle = ""
 +++
 
 Due to COVID restrictions, registration is open only to members of the 5C (Claremont Colleges) community.  
