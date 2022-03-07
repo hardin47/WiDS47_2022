@@ -22,7 +22,7 @@ scope = [
   url = "https://twitter.com/mellymeldubs"
 
 [asset]
-  image = "melanie_walsh.png"
+  image = "melanie_walsh.jpeg"
 +++
 
 Melanie Walsh 

@@ -20,9 +20,12 @@ title_align = "left"
 word-wrap: break-word;
 text-align: center;
 }
-.heatMap tr:nth-child(2) { background: #00B140; }
-.heatMap tr:nth-child(4) { background: #00B140; }
-.heatMap tr:nth-child(6) { background: #00B140; }
+.heatMap tr:nth-child(1) { background: #00B140; }
+.heatMap tr:nth-child(3) { background: #00B140; }
+.heatMap tr:nth-child(5) { background: #00B140; }
+.heatMap tr:nth-child(7) { background: #00B140; }
+.heatMap tr:nth-child(9) { background: #00B140; }
+.heatMap tr:nth-child(11) { background: #00B140; }
 </style>
 
 <div class="heatMap"><center>
