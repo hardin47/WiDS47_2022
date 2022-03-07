@@ -3,7 +3,7 @@ fragment = "content"
 weight = 100
 +++
 
-<img src = "../../../images/studio_art.png" alt = "Photograph of the Studio Art building at Pomona College">
+<img src = "/images/studio_art.png" alt = "Photograph of the Studio Art building at Pomona College">
 
 <br>
 
