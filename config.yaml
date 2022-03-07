@@ -83,5 +83,5 @@ menu:
       url: /registration
       weight: 40
     - name: Program
-      url: /docs
+      url: /program
       weight: 50
