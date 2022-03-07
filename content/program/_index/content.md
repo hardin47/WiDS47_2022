@@ -6,13 +6,25 @@ weight = 100
   sticky = true
 +++
 
-Highly customizable open source theme for Hugo based static websites
-
-Syna is a Hugo template built to be customizable and easy to use.
-To achieve this we have built it in a way that all pages are created using building blocks called fragments.
-Each page within a Syna based website is created using fragments.
+All times listed are in United States Pacific time zone. All events will take place at Pomona College in the Studio Art Building, 2nd floor outside classroom
 
 
-If anything is not documented or needs more details, feel free to open an issue or contribute by opening a pull request.
+9:30-9:45am, registration + coffee 
 
-*See how you can contribute with our [contribution guide](https://github.com/okkur/syna/blob/master/CONTRIBUTING.md).*
+9:45am, welcome to WiDS, [President G. Gabrielle Starr](https://www.pomona.edu/administration/president)
+
+10 - 11:00am, keynote address, "Data as Culture", [Melanie Walsh](melaniewalsh.org)
+
+11-11:30am, networking coffee
+
+11:30-12:30pm, keynote address, "", [Hilary Parker](https://hilaryparker.com/)
+
+12:30-2pm, lunch on your own
+
+2-3pm, alumni panel, [Nicole Bauthier](https://www.linkedin.com/in/nicole-bauthier-586b9335/), [Preet Khowaja](https://www.linkedin.com/in/preet-khowaja/), [Lily Liu](https://www.linkedin.com/in/xuanchiliu/), [Amy Watt](https://www.linkedin.com/in/amywatt97/)	
+
+3-3:30pm, networking coffee		
+
+3:30-4:30pm, keynote address, "", [Mitra Akhtari](https://scholar.harvard.edu/makhtari)
+
+4:30, closing remarks
