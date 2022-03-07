@@ -30,7 +30,7 @@ text-align: center;
 
 | Time     	|  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 	| Event            	|  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 	| Place       	|
 |----------	|---	|------------------	|---	|-------------	|
-| 9:30-10am 	|   	| registration + coffee    	|   	| Doms Lounge,SCC 	|
+| 9:30-10am 	|   	| registration + coffee    	|   	| 2nd Floor Studio Art 	|
 | 10:00-11am 	|   	| keynote 1        	|   	|             	|
 | 11-11:30am 	|   	| networking coffee       	|   	|             	|
 | 11:30-12:30pm 	|   	| keynote 2        	|   	|             	|
