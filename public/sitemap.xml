@@ -2,89 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/docs/program/</loc>
-    <lastmod>2022-03-07T05:38:26-08:00</lastmod>
-  </url><url>
-    <loc>/fragments/404/</loc>
-    <lastmod>2022-01-15T12:13:00-08:00</lastmod>
-  </url><url>
-    <loc>/fragments/buttons/</loc>
-    <lastmod>2022-01-15T10:19:09-08:00</lastmod>
-  </url><url>
-    <loc>/fragments/config/</loc>
-    <lastmod>2022-01-15T10:19:09-08:00</lastmod>
-  </url><url>
-    <loc>/fragments/contact/</loc>
-    <lastmod>2022-01-15T10:19:09-08:00</lastmod>
-  </url><url>
-    <loc>/fragments/content/</loc>
-    <lastmod>2022-01-15T10:19:09-08:00</lastmod>
-  </url><url>
-    <loc>/fragments/copyright/</loc>
-    <lastmod>2022-01-15T10:19:09-08:00</lastmod>
-  </url><url>
-    <loc>/fragments/editor/</loc>
-    <lastmod>2022-01-15T10:19:09-08:00</lastmod>
-  </url><url>
-    <loc>/fragments/embed/</loc>
-    <lastmod>2022-01-15T10:19:09-08:00</lastmod>
-  </url><url>
-    <loc>/fragments/faq/</loc>
-    <lastmod>2022-01-15T10:19:09-08:00</lastmod>
-  </url><url>
-    <loc>/fragments/footer/</loc>
-    <lastmod>2022-01-15T10:19:09-08:00</lastmod>
-  </url><url>
-    <loc>/fragments/graph/</loc>
-    <lastmod>2022-01-15T10:19:09-08:00</lastmod>
-  </url><url>
-    <loc>/fragments/header/</loc>
-    <lastmod>2022-01-15T10:19:09-08:00</lastmod>
-  </url><url>
-    <loc>/fragments/hero/</loc>
-    <lastmod>2022-01-15T10:19:09-08:00</lastmod>
-  </url><url>
-    <loc>/fragments/item/</loc>
-    <lastmod>2022-01-15T10:19:09-08:00</lastmod>
-  </url><url>
-    <loc>/fragments/items/</loc>
-    <lastmod>2022-01-15T10:19:09-08:00</lastmod>
-  </url><url>
-    <loc>/fragments/list/</loc>
-    <lastmod>2022-01-15T10:19:09-08:00</lastmod>
-  </url><url>
-    <loc>/fragments/nav/</loc>
-    <lastmod>2022-01-15T10:19:09-08:00</lastmod>
-  </url><url>
-    <loc>/fragments/portfolio/</loc>
-    <lastmod>2022-01-15T10:19:09-08:00</lastmod>
-  </url><url>
-    <loc>/fragments/pricing/</loc>
-    <lastmod>2022-01-15T10:19:09-08:00</lastmod>
-  </url><url>
-    <loc>/fragments/react-portal/</loc>
-    <lastmod>2022-01-15T10:19:09-08:00</lastmod>
-  </url><url>
-    <loc>/fragments/repositories_github/</loc>
-    <lastmod>2022-01-15T10:19:09-08:00</lastmod>
-  </url><url>
-    <loc>/fragments/search/</loc>
-    <lastmod>2022-01-15T10:19:09-08:00</lastmod>
+    <loc>/program/program/</loc>
   </url><url>
     <loc>/search/</loc>
     <lastmod>2022-01-15T10:19:09-08:00</lastmod>
-  </url><url>
-    <loc>/fragments/stripe/</loc>
-    <lastmod>2022-01-15T10:19:09-08:00</lastmod>
-  </url><url>
-    <loc>/fragments/table/</loc>
-    <lastmod>2022-01-15T10:19:09-08:00</lastmod>
-  </url><url>
-    <loc>/fragments/toc/</loc>
-    <lastmod>2022-01-15T10:19:09-08:00</lastmod>
-  </url><url>
-    <loc>/fragments/member/</loc>
-    <lastmod>2022-01-15T15:05:22-08:00</lastmod>
   </url><url>
     <loc>/post/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2022-01-15T12:13:00-08:00</lastmod>
@@ -110,10 +31,7 @@
     <loc>/_index/</loc>
     <lastmod>2022-01-15T14:26:16-08:00</lastmod>
   </url><url>
-    <loc>/docs/</loc>
+    <loc>/program/</loc>
     <lastmod>2022-01-15T17:04:07-08:00</lastmod>
-  </url><url>
-    <loc>/fragments/</loc>
-    <lastmod>2022-01-15T10:19:09-08:00</lastmod>
   </url>
 </urlset>
