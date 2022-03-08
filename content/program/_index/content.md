@@ -11,7 +11,7 @@ All times listed are in United States Pacific time zone. All events will take pl
 
 <font color = "#620059"><b>9:30-9:45am,</b></font> registration + coffee 
 
-<font color = "#620059"><b>9:45am,</b></font> welcome to WiDS, [President G. Gabrielle Starr](https://www.pomona.edu/administration/president)
+<font color = "#620059"><b>9:45am,</b></font> welcome to WiDS, 
 
 <font color = "#620059"><b>10-11:00am,</b></font> keynote address, "Data as Culture", [Melanie Walsh](melaniewalsh.org)
 
