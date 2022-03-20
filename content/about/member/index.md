@@ -8,7 +8,7 @@ background = "light"
 
 Hailed as one of the best careers of the 21st century, data science jobs have grown 650% since 2012, according to LinkedIn. Are you curious about what data scientists do, what backgrounds they have, and how you can become a data scientist yourself? 
 
-Join us for the Women in Data Science (WiDS) Claremont conference on April 1, 2022! The 7Cs conference is organized by Economics and Mathematics and supported by Computer Science, Pomona College, and the Office of Consortial Academic Collaboration.
+Join us for the Women in Data Science (WiDS) Claremont conference on April 1, 2022! The 5C conference is supported by the Departments of Economics, Mathematics + Statistics, and Computer Science, as well as the President and VP + Dean of the College of Pomona College, and both the Quantitative Skills Center at Pomona and the 5C Office of Consortial Academic Collaboration.
 
 As of 2020, just 18% of data scientists are women. We bring you three remarkable senior women data scientists as keynote speakers. You will also hear from a few stellar Pomona alumnae who are pursuing careers in data science. 
 
