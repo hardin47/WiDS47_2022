@@ -21,7 +21,7 @@ All times listed are in United States Pacific time zone. Morning events will tak
 
 <font color = "#620059"><b>12:30-2pm,</b></font> lunch on your own
 
-<font color = "#620059"><b>2-3pm,</b></font> Alumni Panel, [Nicole Bauthier](https://www.linkedin.com/in/nicole-bauthier-586b9335/), [Preet Khowaja](https://www.linkedin.com/in/preet-khowaja/), [Lily Liu](https://www.linkedin.com/in/xuanchiliu/), [Amy Watt](https://www.linkedin.com/in/amywatt97/)	
+<font color = "#620059"><b>2-3pm,</b></font> Alumnae Panel, [Nicole Bauthier](https://www.linkedin.com/in/nicole-bauthier-586b9335/), [Preet Khowaja](https://www.linkedin.com/in/preet-khowaja/), [Lily Liu](https://www.linkedin.com/in/xuanchiliu/), [Amy Watt](https://www.linkedin.com/in/amywatt97/)	
 
 <font color = "#620059"><b>3-3:30pm,</b></font> Networking Coffee		
 
