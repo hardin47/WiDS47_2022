@@ -33,16 +33,16 @@ text-align: center;
 
 | Time     	|  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 	| Event            	|  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 	| Place       	|
 |----------	|---	|------------------	|---	|-------------	|
-| 9:30-9:45 am 	|   	| registration + coffee    	|   	| 2nd Floor Studio Art 	|
-| 9:45-10:00am 	|   	| welcome       	|   	|             	|
-| 10-11:00am 	|   	| keynote 1        	|   	|             	|
-| 11-11:30am 	|   	| networking coffee       	|   	|             	|
-| 11:30-12:30pm 	|   	| keynote 2        	|   	|             	|
+| 9:30-9:45 am 	|   	| Registration + Coffee    	|   	| 2nd Floor Studio Art 	|
+| 9:45-10:00am 	|   	| Welcome       	|   	| 2nd Floor Studio Art 	|
+| 10-11:00am 	|   	| Keynote Address 1        	|   	| 2nd Floor Studio Art 	|
+| 11-11:30am 	|   	| Networking Coffee       	|   	| 2nd Floor Studio Art 	|
+| 11:30-12:30pm 	|   	| Keynote Address 2        	|   	| 2nd Floor Studio Art 	|
 | 12:30-2pm     	|   	| lunch on your own	|   	|   	|
-| 2-3pm      	|   	| alumni panel            	|   	|             	|
-| 3-3:30pm 	|   	| networking coffee           	|   	|             	|
-| 3:30-4:30pm 	|   	| keynote 3        	|   	|             	|
-| 4:30pm 	|   	| closing        	|   	|             	|
+| 2-3pm      	|   	| Alumni Panel            	|   	|   Estella 1021   	|
+| 3-3:30pm 	|   	| networking coffee           	|   	|  Estella Courtyard	|
+| 3:30-4:30pm 	|   	| Keynote Address 3        	|   	|    Estella 1021    	|
+| 4:30pm 	|   	| Closing        	|   	| Estella 1021  	|
 
 </center>
 </div>

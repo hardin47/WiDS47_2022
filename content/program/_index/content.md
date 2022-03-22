@@ -7,11 +7,11 @@ weight = 100
 
 <br>
 
-All times listed are in United States Pacific time zone. Events will take place at Pomona College in the Studio Art Building, 2nd floor outside classroom
+All times listed are in United States Pacific time zone. Morning events will take place at Pomona College in the Studio Art Building (behind the baseball diamond), 2nd floor outside classroom; Afternoon events will take place at Pomona College in Estella 1021 (corner of 6th and College Ave).
 
 <font color = "#620059"><b>9:30-9:45am,</b></font> Registration + Coffee 
 
-<font color = "#620059"><b>9:45am,</b></font> Welcome to WiDS, 
+<font color = "#620059"><b>9:45am,</b></font> Welcome to WiDS, [Avis Hinkson](https://www.pomona.edu/administration/dean-of-students/deans-staff), Vice President for Student Affairs and Dean of Students
 
 <font color = "#620059"><b>10-11:00am,</b></font> Keynote Address, "Data as Culture", [Melanie Walsh](melaniewalsh.org)
 
