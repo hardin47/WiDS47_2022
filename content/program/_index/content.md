@@ -3,11 +3,15 @@ fragment = "content"
 weight = 100
 +++
 
-<img src = "/images/studio_art.png" alt = "Photograph of the Studio Art building at Pomona College">
+<br>
+
+<img src = "/images/hahn.png" alt = "Photograph of the Hahn building at Pomona College">
 
 <br>
 
-All times listed are in United States Pacific time zone. Morning events will take place at Pomona College in the Studio Art Building (behind the baseball diamond), 2nd floor outside classroom; Afternoon events will take place at Pomona College in Estella 1021 (corner of 6th and College Ave).
+<h1 style="color:#e98300;">Notice: New Location!!!</h1>
+
+All times listed are in United States Pacific time zone.  All events will take place at Pomona College in Hahn 101 (Harvard Ave and W 4th St).
 
 <font color = "#620059"><b>9:30-9:45am,</b></font> Registration + Coffee 
 

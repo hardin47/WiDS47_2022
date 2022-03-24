@@ -33,16 +33,16 @@ text-align: center;
 
 | Time     	|  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 	| Event            	|  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 	| Place       	|
 |----------	|---	|------------------	|---	|-------------	|
-| 9:30-9:45 am 	|   	| Registration + Coffee    	|   	| 2nd Floor Studio Art 	|
-| 9:45-10:00am 	|   	| Welcome       	|   	| 2nd Floor Studio Art 	|
-| 10-11:00am 	|   	| Keynote Address 1        	|   	| 2nd Floor Studio Art 	|
-| 11-11:30am 	|   	| Networking Coffee       	|   	| 2nd Floor Studio Art 	|
-| 11:30-12:30pm 	|   	| Keynote Address 2        	|   	| 2nd Floor Studio Art 	|
+| 9:30-9:45 am 	|   	| Registration + Coffee    	|   	| Hahn Courtyard &nbsp;&nbsp;&nbsp;	|
+| 9:45-10:00am 	|   	| Welcome       	|   	| Hahn 101 	|
+| 10-11:00am 	|   	| Keynote Address 1        	|   	| Hahn 101 	|
+| 11-11:30am 	|   	| Networking Coffee       	|   	| Hahn Courtyard 	|
+| 11:30-12:30pm 	|   	| Keynote Address 2        	|   	| Hahn 101	|
 | 12:30-2pm     	|   	| lunch on your own	|   	|   	|
-| 2-3pm      	|   	| Alumnae Panel            	|   	|   Estella 1021   	|
-| 3-3:30pm 	|   	| networking coffee           	|   	|  Estella Courtyard	|
-| 3:30-4:30pm 	|   	| Keynote Address 3        	|   	|    Estella 1021    	|
-| 4:30pm 	|   	| Closing        	|   	| Estella 1021  	|
+| 2-3pm      	|   	| Alumnae Panel            	|   	|   Hahn 101	|
+| 3-3:30pm 	|   	| networking coffee           	|   	|  Hahn Courtyard	|
+| 3:30-4:30pm 	|   	| Keynote Address 3        	|   	|  Hahn 101	|
+| 4:30pm 	|   	| Closing        	|   	| Hahn 101	|
 
 </center>
 </div>
