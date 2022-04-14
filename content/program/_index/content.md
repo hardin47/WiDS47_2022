@@ -21,7 +21,7 @@ All times listed are in United States Pacific time zone.  All events will take p
 
 <font color = "#620059"><b>11-11:30am,</b></font> Networking Coffee
 
-<font color = "#620059"><b>11:30-12:30pm,</b></font> Keynote Address, "Creativity in Data Work", [Hilary Parker](https://hilaryparker.com/)
+<font color = "#620059"><b>11:30-12:30pm,</b></font> Keynote Address, "Creativity in Data Work", [Hilary Parker](https://hilaryparker.com/).  Hilary's slides are [linked here](https://www.slideshare.net/hilaryparker/wids-claremont-2022pdf).
 
 <font color = "#620059"><b>12:30-2pm,</b></font> lunch on your own
 
