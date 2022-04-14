@@ -17,7 +17,8 @@ All times listed are in United States Pacific time zone.  All events will take p
 
 <font color = "#620059"><b>9:45am,</b></font> Welcome to WiDS, [Avis Hinkson](https://www.pomona.edu/administration/dean-of-students/deans-staff), Vice President for Student Affairs and Dean of Students
 
-<font color = "#620059"><b>10-11:00am,</b></font> Keynote Address, "Data as Culture", [Melanie Walsh](melaniewalsh.org)
+<font color = "#620059"><b>10-11:00am,</b></font> Keynote Address, "Data as Culture", [Melanie Walsh](melaniewalsh.org).  Melanie's slides are <a href = "/images/Walsh-WiDS-Talk-2022.pdf">linked at</a>.
+
 
 <font color = "#620059"><b>11-11:30am,</b></font> Networking Coffee
 
