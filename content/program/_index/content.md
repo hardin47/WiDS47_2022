@@ -30,6 +30,6 @@ All times listed are in United States Pacific time zone.  All events will take p
 
 <font color = "#620059"><b>3-3:30pm,</b></font> Networking Coffee		
 
-<font color = "#620059"><b>3:30-4:30pm,</b></font> Keynote Address, "No Experimentation, No Problem: Using Quasi-experimental Methods in Business Settings", [Mitra Akhtari](https://scholar.harvard.edu/makhtari)
+<font color = "#620059"><b>3:30-4:30pm,</b></font> Keynote Address, "No Experimentation, No Problem: Using Quasi-experimental Methods in Business Settings", [Mitra Akhtari](https://scholar.harvard.edu/makhtari).  Mitra's slides are <a href = "/images/WiDS_Pomona_April2022_Mitra.pdf" target = "_blank">linked here</a>.
 
 <font color = "#620059"><b>4:30pm,</b></font> Closing Remarks
